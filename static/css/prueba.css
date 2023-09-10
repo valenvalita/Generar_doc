@@ -1,0 +1,16 @@
+/* Estilos generales para el cuerpo del documento */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  /* Estilos específicos para la sección con scrollbar */
+  .scrollable-section {
+    width: 300px; /* Ancho de la sección */
+    height: 200px; /* Alto de la sección */
+    overflow: auto; /* Mostrar la barra de desplazamiento cuando sea necesario */
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+
+ 

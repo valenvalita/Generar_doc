@@ -1,0 +1,998 @@
+{
+    "paises": [
+        {
+          "name": "Afghanistan",
+          "es_name": "Afganistán"
+        },
+        {
+          "name": "Albania",
+          "es_name": "Albania"
+        },
+        {
+          "name": "Algeria",
+          "es_name": "Algeria"
+        },
+        {
+          "name": "American Samoa",
+          "es_name": "Samoa Americana"
+        },
+        {
+          "name": "Andorra",
+          "es_name": "Andorra"
+        },
+        {
+          "name": "Angola",
+          "es_name": "Angola"
+        },
+        {
+          "name": "Anguilla",
+          "es_name": "Anguilla"
+        },
+        {
+          "name": "Antarctica",
+          "es_name": "Antártida"
+        },
+        {
+          "name": "Antigua and Barbuda",
+          "es_name": "Antigua y Barbuda"
+        },
+        {
+          "name": "Argentina",
+          "es_name": "Argentina"
+        },
+        {
+          "name": "Armenia",
+          "es_name": "Armenia"
+        },
+        {
+          "name": "Aruba",
+          "es_name": "Aruba"
+        },
+        {
+          "name": "Australia",
+          "es_name": "Australia"
+        },
+        {
+          "name": "Austria",
+          "es_name": "Austria"
+        },
+        {
+          "name": "Azerbaijan",
+          "es_name": "Azerbaiyán"
+        },
+        {
+          "name": "Bahamas",
+          "es_name": "Bahamas"
+        },
+        {
+          "name": "Bahrain",
+          "es_name": "Bahrein"
+        },
+        {
+          "name": "Bangladesh",
+          "es_name": "Bangladesh"
+        },
+        {
+          "name": "Barbados",
+          "es_name": "Barbados"
+        },
+        {
+          "name": "Belarus",
+          "es_name": "Bielorrusia"
+        },
+        {
+          "name": "Belgium",
+          "es_name": "Bélgica"
+        },
+        {
+          "name": "Belize",
+          "es_name": "Belice"
+        },
+        {
+          "name": "Benin",
+          "es_name": "Benín"
+        },
+        {
+          "name": "Bermuda",
+          "es_name": "Bermuda"
+        },
+        {
+          "name": "Bhutan",
+          "es_name": "Bután"
+        },
+        {
+          "name": "Bolivia",
+          "es_name": "Bolivia"
+        },
+        {
+          "name": "Bosnia and Herzegovina",
+          "es_name": "Bosnia-Herzegovina"
+        },
+        {
+          "name": "Botswana",
+          "es_name": "Botswana"
+        },
+        {
+          "name": "Brazil",
+          "es_name": "Brasil"
+        },
+        {
+          "name": "Brunei Darussalam",
+          "es_name": "Brunei"
+        },
+        {
+          "name": "Bulgaria",
+          "es_name": "Bulgaria"
+        },
+        {
+          "name": "Burkina Faso",
+          "es_name": "Burkina Faso"
+        },
+        {
+          "name": "Burundi",
+          "es_name": "Burundi"
+        },
+        {
+          "name": "Cambodia",
+          "es_name": "Camboya"
+        },
+        {
+          "name": "Cameroon",
+          "es_name": "Camerún"
+        },
+        {
+          "name": "Canada",
+          "es_name": "Canadá"
+        },
+        {
+          "name": "Cape Verde",
+          "es_name": "Cabo Verde"
+        },
+        {
+          "name": "Cayman Islands",
+          "es_name": "Islas Caimán"
+        },
+        {
+          "name": "Central African Republic",
+          "es_name": "República Centroafricana"
+        },
+        {
+          "name": "Chad",
+          "es_name": "Chad"
+        },
+        {
+          "name": "Chile",
+          "es_name": "Chile"
+        },
+        {
+          "name": "China",
+          "es_name": "China"
+        },
+        {
+          "name": "Christmas Island",
+          "es_name": "Isla de Navidad"
+        },
+        {
+          "name": "Cocos (Keeling) Islands",
+          "es_name": "Islas Cocos"
+        },
+        {
+          "name": "Colombia",
+          "es_name": "Colombia"
+        },
+        {
+          "name": "Comoros",
+          "es_name": "Comores"
+        },
+        {
+          "name": "Congo",
+          "es_name": "República del Congo"
+        },
+        {
+          "name": "Congo, The Democratic Republic of the",
+          "es_name": "República Democrática del Congo"
+        },
+        {
+          "name": "Cook Islands",
+          "es_name": "Islas Cook"
+        },
+        {
+          "name": "Costa Rica",
+          "es_name": "Costa Rica"
+        },
+        {
+          "name": "Cote D'Ivoire",
+          "es_name": "Costa de Marfíl"
+        },
+        {
+          "name": "Croatia",
+          "es_name": "Croacia"
+        },
+        {
+          "name": "Cuba",
+          "es_name": "Cuba"
+        },
+        {
+          "name": "Cyprus",
+          "es_name": "Chipre"
+        },
+        {
+          "name": "Czech Republic",
+          "es_name": "República Checa"
+        },
+        {
+          "name": "Denmark",
+          "es_name": "Dinamarca"
+        },
+        {
+          "name": "Djibouti",
+          "es_name": "Djibouti"
+        },
+        {
+          "name": "Dominica",
+          "es_name": "Dominica"
+        },
+        {
+          "name": "Dominican Republic",
+          "es_name": "República Dominicana"
+        },
+        {
+          "name": "Ecuador",
+          "es_name": "Ecuador"
+        },
+        {
+          "name": "Egypt",
+          "es_name": "Egipto"
+        },
+        {
+          "name": "El Salvador",
+          "es_name": "El Salvador"
+        },
+        {
+          "name": "Equatorial Guinea",
+          "es_name": "Guinea Ecuatorial"
+        },
+        {
+          "name": "Eritrea",
+          "es_name": "Eritrea"
+        },
+        {
+          "name": "Estonia",
+          "es_name": "Estonia"
+        },
+        {
+          "name": "Ethiopia",
+          "es_name": "Etiopía"
+        },
+        {
+          "name": "Falkland Islands (Malvinas)",
+          "es_name": "Islas Malvinas"
+        },
+        {
+          "name": "Faroe Islands",
+          "es_name": "Islas Feroe"
+        },
+        {
+          "name": "Fiji",
+          "es_name": "Fiji"
+        },
+        {
+          "name": "Finland",
+          "es_name": "Finlandia"
+        },
+        {
+          "name": "France",
+          "es_name": "Francia"
+        },
+        {
+          "name": "French Guiana",
+          "es_name": "Guyana Francesa"
+        },
+        {
+          "name": "French Polynesia",
+          "es_name": "Polinesia Francesa"
+        },
+        {
+          "name": "French Southern Territories",
+          "es_name": "Tierras Australes y Antárticas Francesas"
+        },
+        {
+          "name": "Gabon",
+          "es_name": "Gabón"
+        },
+        {
+          "name": "Gambia",
+          "es_name": "Gambia"
+        },
+        {
+          "name": "Georgia",
+          "es_name": "Georgia"
+        },
+        {
+          "name": "Germany",
+          "es_name": "Alemania"
+        },
+        {
+          "name": "Ghana",
+          "es_name": "Ghana"
+        },
+        {
+          "name": "Gibraltar",
+          "es_name": "Gibraltar"
+        },
+        {
+          "name": "Greece",
+          "es_name": "Grecia"
+        },
+        {
+          "name": "Greenland",
+          "es_name": "Groenlandia"
+        },
+        {
+          "name": "Grenada",
+          "es_name": "Granada"
+        },
+        {
+          "name": "Guadeloupe",
+          "es_name": "Guadalupe"
+        },
+        {
+          "name": "Guam",
+          "es_name": "Guam"
+        },
+        {
+          "name": "Guatemala",
+          "es_name": "Guatemala"
+        },
+        {
+          "name": "Guinea",
+          "es_name": "Guinea"
+        },
+        {
+          "name": "Guinea-Bissau",
+          "es_name": "Guinea-Bissau"
+        },
+        {
+          "name": "Guyana",
+          "es_name": "Guyana"
+        },
+        {
+          "name": "Haiti",
+          "es_name": "Haití"
+        },
+        {
+          "name": "Holy See (Vatican City State)",
+          "es_name": "Vaticano"
+        },
+        {
+          "name": "Honduras",
+          "es_name": "Honduras"
+        },
+        {
+          "name": "Hong Kong",
+          "es_name": "Hong Kong"
+        },
+        {
+          "name": "Hungary",
+          "es_name": "Hungría"
+        },
+        {
+          "name": "Iceland",
+          "es_name": "Islandia"
+        },
+        {
+          "name": "India",
+          "es_name": "India"
+        },
+        {
+          "name": "Indonesia",
+          "es_name": "Indonesia"
+        },
+        {
+          "name": "Iran, Islamic Republic Of",
+          "es_name": "Irán"
+        },
+        {
+          "name": "Iraq",
+          "es_name": "Iraq"
+        },
+        {
+          "name": "Ireland",
+          "es_name": "Irlanda"
+        },
+        {
+          "name": "Israel",
+          "es_name": "Israel"
+        },
+        {
+          "name": "Italy",
+          "es_name": "Italia"
+        },
+        {
+          "name": "Jamaica",
+          "es_name": "Jamaica"
+        },
+        {
+          "name": "Japan",
+          "es_name": "Japón"
+        },
+        {
+          "name": "Jordan",
+          "es_name": "Jordania"
+        },
+        {
+          "name": "Kazakhstan",
+          "es_name": "Kazajstán"
+        },
+        {
+          "name": "Kenya",
+          "es_name": "Kenia"
+        },
+        {
+          "name": "Kiribati",
+          "es_name": "Kiribati"
+        },
+        {
+          "name": "Korea, Democratic People'S Republic of",
+          "es_name": "Corea del Norte"
+        },
+        {
+          "name": "Korea, Republic of",
+          "es_name": "Corea del Sur"
+        },
+        {
+          "name": "Kuwait",
+          "es_name": "Kuwait"
+        },
+        {
+          "name": "Kyrgyzstan",
+          "es_name": "Kirguistán"
+        },
+        {
+          "name": "Lao People's Democratic Republic",
+          "es_name": "Laos"
+        },
+        {
+          "name": "Latvia",
+          "es_name": "Letonia"
+        },
+        {
+          "name": "Lebanon",
+          "es_name": "Líbano"
+        },
+        {
+          "name": "Lesotho",
+          "es_name": "Lesotho"
+        },
+        {
+          "name": "Liberia",
+          "es_name": "Liberia"
+        },
+        {
+          "name": "Libyan Arab Jamahiriya",
+          "es_name": "Libia"
+        },
+        {
+          "name": "Liechtenstein",
+          "es_name": "Liechtenstein"
+        },
+        {
+          "name": "Lithuania",
+          "es_name": "Lituania"
+        },
+        {
+          "name": "Luxembourg",
+          "es_name": "Luxemburgo"
+        },
+        {
+          "name": "Macao",
+          "es_name": "Macao"
+        },
+        {
+          "name": "Macedonia, The Former Yugoslav Republic of",
+          "es_name": "Macedonia"
+        },
+        {
+          "name": "Madagascar",
+          "es_name": "Madagascar"
+        },
+        {
+          "name": "Malawi",
+          "es_name": "Malawi"
+        },
+        {
+          "name": "Malaysia",
+          "es_name": "Malasia"
+        },
+        {
+          "name": "Maldives",
+          "es_name": "Maldivas"
+        },
+        {
+          "name": "Mali",
+          "es_name": "Mali"
+        },
+        {
+          "name": "Malta",
+          "es_name": "Malta"
+        },
+        {
+          "name": "Marshall Islands",
+          "es_name": "Islas Marshall"
+        },
+        {
+          "name": "Martinique",
+          "es_name": "Martinica"
+        },
+        {
+          "name": "Mauritania",
+          "es_name": "Mauritania"
+        },
+        {
+          "name": "Mauritius",
+          "es_name": "Mauricio"
+        },
+        {
+          "name": "Mayotte",
+          "es_name": "Mayotte"
+        },
+        {
+          "name": "Mexico",
+          "es_name": "México"
+        },
+        {
+          "name": "Micronesia, Federated States of",
+          "es_name": "Estados Federados de Micronesia"
+        },
+        {
+          "name": "Moldova, Republic of",
+          "es_name": "Moldavia"
+        },
+        {
+          "name": "Monaco",
+          "es_name": "Mónaco"
+        },
+        {
+          "name": "Mongolia",
+          "es_name": "Mongolia"
+        },
+        {
+          "name": "Montserrat",
+          "es_name": "Montserrat"
+        },
+        {
+          "name": "Morocco",
+          "es_name": "Marruecos"
+        },
+        {
+          "name": "Mozambique",
+          "es_name": "Mozambique"
+        },
+        {
+          "name": "Myanmar",
+          "es_name": "Myanmar"
+        },
+        {
+          "name": "Namibia",
+          "es_name": "Namibia"
+        },
+        {
+          "name": "Nauru",
+          "es_name": "Nauru"
+        },
+        {
+          "name": "Nepal",
+          "es_name": "Nepal"
+        },
+        {
+          "name": "Netherlands",
+          "es_name": "Holanda"
+        },
+        {
+          "name": "Netherlands Antilles",
+          "es_name": "Antillas Holandesas"
+        },
+        {
+          "name": "New Caledonia",
+          "es_name": "Nueva Caledonia"
+        },
+        {
+          "name": "New Zealand",
+          "es_name": "Nueva Zelanda"
+        },
+        {
+          "name": "Nicaragua",
+          "es_name": "Nicaragua"
+        },
+        {
+          "name": "Niger",
+          "es_name": "Niger"
+        },
+        {
+          "name": "Nigeria",
+          "es_name": "Nigeria"
+        },
+        {
+          "name": "Niue",
+          "es_name": "Niue"
+        },
+        {
+          "name": "Norfolk Island",
+          "es_name": "Islas Norfolk"
+        },
+        {
+          "name": "Northern Mariana Islands",
+          "es_name": "Islas Marianas del Norte"
+        },
+        {
+          "name": "Norway",
+          "es_name": "Noruega"
+        },
+        {
+          "name": "Oman",
+          "es_name": "Omán"
+        },
+        {
+          "name": "Pakistan",
+          "es_name": "Pakistán"
+        },
+        {
+          "name": "Palau",
+          "es_name": "Palau"
+        },
+        {
+          "name": "Palestinian Territory, Occupied",
+          "es_name": "Palestina"
+        },
+        {
+          "name": "Panama",
+          "es_name": "Panamá"
+        },
+        {
+          "name": "Papua New Guinea",
+          "es_name": "Papua Nueva Guinea"
+        },
+        {
+          "name": "Paraguay",
+          "es_name": "Paraguay"
+        },
+        {
+          "name": "Peru",
+          "es_name": "Perú"
+        },
+        {
+          "name": "Philippines",
+          "es_name": "Filipinas"
+        },
+        {
+          "name": "Pitcairn",
+          "es_name": "Pitcairn"
+        },
+        {
+          "name": "Poland",
+          "es_name": "Polonia"
+        },
+        {
+          "name": "Portugal",
+          "es_name": "Portugal"
+        },
+        {
+          "name": "Puerto Rico",
+          "es_name": "Puerto Rico"
+        },
+        {
+          "name": "Qatar",
+          "es_name": "Qatar"
+        },
+        {
+          "name": "Reunion",
+          "es_name": "Reunión"
+        },
+        {
+          "name": "Romania",
+          "es_name": "Rumanía"
+        },
+        {
+          "name": "Russian Federation",
+          "es_name": "Rusia"
+        },
+        {
+          "name": "Rwanda",
+          "es_name": "Ruanda"
+        },
+        {
+          "name": "Saint Helena",
+          "es_name": "Santa Helena"
+        },
+        {
+          "name": "Saint Kitts and Nevis",
+          "es_name": "San Kitts y Nevis"
+        },
+        {
+          "name": "Saint Lucia",
+          "es_name": "Santa Lucía"
+        },
+        {
+          "name": "Saint Vincent and the Grenadines",
+          "es_name": "San Vicente y Granadinas"
+        },
+        {
+          "name": "Samoa",
+          "es_name": "Samoa"
+        },
+        {
+          "name": "San Marino",
+          "es_name": "San Marino"
+        },
+        {
+          "name": "Sao Tome and Principe",
+          "es_name": "Santo Tomé y Príncipe"
+        },
+        {
+          "name": "Saudi Arabia",
+          "es_name": "Arabia Saudita"
+        },
+        {
+          "name": "Senegal",
+          "es_name": "Senegal"
+        },
+        {
+          "name": "Serbia and Montenegro",
+          "es_name": "Serbia"
+        },
+        {
+          "name": "Seychelles",
+          "es_name": "Seychelles"
+        },
+        {
+          "name": "Sierra Leone",
+          "es_name": "Sierra Leona"
+        },
+        {
+          "name": "Singapore",
+          "es_name": "Singapur"
+        },
+        {
+          "name": "Slovakia",
+          "es_name": "Eslovaquía"
+        },
+        {
+          "name": "Slovenia",
+          "es_name": "Eslovenia"
+        },
+        {
+          "name": "Solomon Islands",
+          "es_name": "Islas Salomón"
+        },
+        {
+          "name": "Somalia",
+          "es_name": "Somalia"
+        },
+        {
+          "name": "South Africa",
+          "es_name": "Sudáfrica"
+        },
+        {
+          "name": "Spain",
+          "es_name": "España"
+        },
+        {
+          "name": "Sri Lanka",
+          "es_name": "Sri Lanka"
+        },
+        {
+          "name": "Sudan",
+          "es_name": "Sudán"
+        },
+        {
+          "name": "Suriname",
+          "es_name": "Surinam"
+        },
+        {
+          "name": "Swaziland",
+          "es_name": "Swazilandia"
+        },
+        {
+          "name": "Sweden",
+          "es_name": "Suecia"
+        },
+        {
+          "name": "Switzerland",
+          "es_name": "Suiza"
+        },
+        {
+          "name": "Syrian Arab Republic",
+          "es_name": "Siria"
+        },
+        {
+          "name": "Taiwan, Province of China",
+          "es_name": "Taiwán"
+        },
+        {
+          "name": "Tajikistan",
+          "es_name": "Tadjikistan"
+        },
+        {
+          "name": "Tanzania, United Republic of",
+          "es_name": "Tanzania"
+        },
+        {
+          "name": "Thailand",
+          "es_name": "Tailandia"
+        },
+        {
+          "name": "Timor-Leste",
+          "es_name": "Timor Oriental"
+        },
+        {
+          "name": "Togo",
+          "es_name": "Togo"
+        },
+        {
+          "name": "Tokelau",
+          "es_name": "Tokelau"
+        },
+        {
+          "name": "Tonga",
+          "es_name": "Tonga"
+        },
+        {
+          "name": "Trinidad and Tobago",
+          "es_name": "Trinidad y Tobago"
+        },
+        {
+          "name": "Tunisia",
+          "es_name": "Túnez"
+        },
+        {
+          "name": "Turkey",
+          "es_name": "Turquía"
+        },
+        {
+          "name": "Turkmenistan",
+          "es_name": "Turkmenistan"
+        },
+        {
+          "name": "Turks and Caicos Islands",
+          "es_name": "Islas Turcas y Caicos"
+        },
+        {
+          "name": "Tuvalu",
+          "es_name": "Tuvalu"
+        },
+        {
+          "name": "Uganda",
+          "es_name": "Uganda"
+        },
+        {
+          "name": "Ukraine",
+          "es_name": "Ucrania"
+        },
+        {
+          "name": "United Arab Emirates",
+          "es_name": "Emiratos Árabes Unidos"
+        },
+        {
+          "name": "United Kingdom",
+          "es_name": "Reino Unido"
+        },
+        {
+          "name": "United States",
+          "es_name": "Estados Unidos"
+        },
+        {
+          "name": "Uruguay",
+          "es_name": "Uruguay"
+        },
+        {
+          "name": "Uzbekistan",
+          "es_name": "Uzbekistán"
+        },
+        {
+          "name": "Vanuatu",
+          "es_name": "Vanuatu"
+        },
+        {
+          "name": "Venezuela",
+          "es_name": "Venezuela"
+        },
+        {
+          "name": "Viet Nam",
+          "es_name": "Vietnam"
+        },
+        {
+          "name": "Virgin Islands, British",
+          "es_name": "Islas Vírgenes Británicas"
+        },
+        {
+          "name": "Virgin Islands, U.S.",
+          "es_name": "Islas Vírgenes Americanas"
+        },
+        {
+          "name": "Wallis and Futuna",
+          "es_name": "Wallis y Futuna"
+        },
+        {
+          "name": "Western Sahara",
+          "es_name": "Sáhara Occidental"
+        },
+        {
+          "name": "Yemen",
+          "es_name": "Yemen"
+        },
+        {
+          "name": "Zambia",
+          "es_name": "Zambia"
+        },
+        {
+          "name": "Zimbabwe",
+          "es_name": "Zimbabwe"
+        }
+      ] ,
+    "regiones": [
+        {
+        "id": 1, "nombre": "Región de Tarapacá",
+        "comunas": [{"id": 10301, "nombre": "Camiña"}, {"id": 10302, "nombre": "Huara"}, {"id": 10303, "nombre": "Pozo Almonte"}, {"id": 10304, "nombre": "Iquique"}, {"id": 10305, "nombre": "Pica"}, {"id": 10306, "nombre": "Colchane"}, {"id": 10307, "nombre": "Alto Hospicio"}]
+        },
+        {
+        "id": 2, "nombre": "Región de Antofagasta",
+        "comunas": [{"id": 20101, "nombre": "Tocopilla"}, {"id": 20102, "nombre": "Maria Elena"}, {"id": 20201, "nombre": "Ollague"}, {"id": 20202, "nombre": "Calama"}, {"id": 20203, "nombre": "San Pedro Atacama"}, {"id": 20301, "nombre": "Sierra Gorda"}, {"id": 20302, "nombre": "Mejillones"}, {"id": 20303, "nombre": "Antofagasta"}, {"id": 20304, "nombre": "Taltal"}]
+        },
+        {
+        "id": 3, "nombre": "Región de Atacama",
+        "comunas": [{"id": 30101, "nombre": "Diego de Almagro"}, {"id": 30102, "nombre": "Chañaral"}, {"id": 30201, "nombre": "Caldera"}, {"id": 30202, "nombre": "Copiapo"}, {"id": 30203, "nombre": "Tierra Amarilla"}, {"id": 30301, "nombre": "Huasco"}, {"id": 30302, "nombre": "Freirina"}, {"id": 30303, "nombre": "Vallenar"}, {"id": 30304, "nombre": "Alto del Carmen"}]
+        },
+        {
+        "id": 4, "nombre": "Región de Coquimbo ",
+        "comunas": [{"id": 40101, "nombre": "La Higuera"}, {"id": 40102, "nombre": "La Serena"}, {"id": 40103, "nombre": "Vicuña"}, {"id": 40104, "nombre": "Paihuano"}, {"id": 40105, "nombre": "Coquimbo"}, {"id": 40106, "nombre": "Andacollo"}, {"id": 40201, "nombre": "Rio Hurtado"}, {"id": 40202, "nombre": "Ovalle"}, {"id": 40203, "nombre": "Monte Patria"}, {"id": 40204, "nombre": "Punitaqui"}, {"id": 40205, "nombre": "Combarbala"}, {"id": 40301, "nombre": "Mincha"}, {"id": 40302, "nombre": "Illapel"}, {"id": 40303, "nombre": "Salamanca"}, {"id": 40304, "nombre": "Los Vilos"}]
+        },
+        {
+        "id": 5, "nombre": "Región de Valparaíso",
+        "comunas": [{"id": 50101, "nombre": "Petorca"}, {"id": 50102, "nombre": "Cabildo"}, {"id": 50103, "nombre": "Papudo"}, {"id": 50104, "nombre": "La Ligua"}, {"id": 50105, "nombre": "Zapallar"}, {"id": 50201, "nombre": "Putaendo"}, {"id": 50202, "nombre": "Santa Maria"}, {"id": 50203, "nombre": "San Felipe"}, {"id": 50204, "nombre": "Pencahue"}, {"id": 50205, "nombre": "Catemu"}, {"id": 50206, "nombre": "Llay Llay"}, {"id": 50301, "nombre": "Nogales"}, {"id": 50302, "nombre": "La Calera"}, {"id": 50303, "nombre": "Hijuelas"}, {"id": 50304, "nombre": "La Cruz"}, {"id": 50305, "nombre": "Quillota"}, {"id": 50306, "nombre": "Olmue"}, {"id": 50307, "nombre": "Limache"}, {"id": 50401, "nombre": "Los Andes"}, {"id": 50402, "nombre": "Rinconada"}, {"id": 50403, "nombre": "Calle Larga"}, {"id": 50404, "nombre": "San Esteban"}, {"id": 50501, "nombre": "Puchuncavi"}, {"id": 50502, "nombre": "Quintero"}, {"id": 50503, "nombre": "Viña del Mar"}, {"id": 50504, "nombre": "Villa Alemana"}, {"id": 50505, "nombre": "Quilpue"}, {"id": 50506, "nombre": "Valparaiso"}, {"id": 50507, "nombre": "Juan Fernandez"}, {"id": 50508, "nombre": "Casablanca"}, {"id": 50509, "nombre": "Concon"}, {"id": 50601, "nombre": "Isla de Pascua"}, {"id": 50701, "nombre": "Algarrobo"}, {"id": 50702, "nombre": "El Quisco"}, {"id": 50703, "nombre": "El Tabo"}, {"id": 50704, "nombre": "Cartagena"}, {"id": 50705, "nombre": "San Antonio"}, {"id": 50706, "nombre": "Santo Domingo"}]
+        },
+        {
+        "id": 6, "nombre": "Región del Libertador Bernardo Ohiggins",
+        "comunas": [{"id": 60101, "nombre": "Mostazal"}, {"id": 60102, "nombre": "Codegua"}, {"id": 60103, "nombre": "Graneros"}, {"id": 60104, "nombre": "Machali"}, {"id": 60105, "nombre": "Rancagua"}, {"id": 60106, "nombre": "Olivar"}, {"id": 60107, "nombre": "Doñihue"}, {"id": 60108, "nombre": "Requinoa"}, {"id": 60109, "nombre": "Coinco"}, {"id": 60110, "nombre": "Coltauco"}, {"id": 60111, "nombre": "Quinta Tilcoco"}, {"id": 60112, "nombre": "Las Cabras"}, {"id": 60113, "nombre": "Rengo"}, {"id": 60114, "nombre": "Peumo"}, {"id": 60115, "nombre": "Pichidegua"}, {"id": 60116, "nombre": "Malloa"}, {"id": 60117, "nombre": "San Vicente"}, {"id": 60201, "nombre": "Navidad"}, {"id": 60202, "nombre": "La Estrella"}, {"id": 60203, "nombre": "Marchigue"}, {"id": 60204, "nombre": "Pichilemu"}, {"id": 60205, "nombre": "Litueche"}, {"id": 60206, "nombre": "Paredones"}, {"id": 60301, "nombre": "San Fernando"}, {"id": 60302, "nombre": "Peralillo"}, {"id": 60303, "nombre": "Placilla"}, {"id": 60304, "nombre": "Chimbarongo"}, {"id": 60305, "nombre": "Palmilla"}, {"id": 60306, "nombre": "Nancagua"}, {"id": 60307, "nombre": "Santa Cruz"}, {"id": 60308, "nombre": "Pumanque"}, {"id": 60309, "nombre": "Chepica"}, {"id": 60310, "nombre": "Lolol"}]
+        },
+        {
+        "id": 7, "nombre": "Región del Maule",
+        "comunas": [{"id": 70101, "nombre": "Teno"}, {"id": 70102, "nombre": "Romeral"}, {"id": 70103, "nombre": "Rauco"}, {"id": 70104, "nombre": "Curico"}, {"id": 70105, "nombre": "Sagrada Familia"}, {"id": 70106, "nombre": "Hualañe"}, {"id": 70107, "nombre": "Vichuquen"}, {"id": 70108, "nombre": "Molina"}, {"id": 70109, "nombre": "Licanten"}, {"id": 70201, "nombre": "Rio Claro"}, {"id": 70202, "nombre": "Curepto"}, {"id": 70203, "nombre": "Pelarco"}, {"id": 70204, "nombre": "Talca"}, {"id": 70205, "nombre": "Pencahue"}, {"id": 70206, "nombre": "San Clemente"}, {"id": 70207, "nombre": "Constitucion"}, {"id": 70208, "nombre": "Maule"}, {"id": 70209, "nombre": "Empedrado"}, {"id": 70210, "nombre": "San Rafael"}, {"id": 70301, "nombre": "San Javier"}, {"id": 70302, "nombre": "Colbun"}, {"id": 70303, "nombre": "Villa Alegre"}, {"id": 70304, "nombre": "Yerbas Buenas"}, {"id": 70305, "nombre": "Linares"}, {"id": 70306, "nombre": "Longavi"}, {"id": 70307, "nombre": "Retiro"}, {"id": 70308, "nombre": "Parral"}, {"id": 70401, "nombre": "Chanco"}, {"id": 70402, "nombre": "Pelluhue"}, {"id": 70403, "nombre": "Cauquenes"}]
+        },
+        {
+        "id": 8, "nombre": "Región del Biobío",
+        "comunas": [{"id": 80201, "nombre": "Tome"}, {"id": 80202, "nombre": "Florida"}, {"id": 80203, "nombre": "Penco"}, {"id": 80204, "nombre": "Talcahuano"}, {"id": 80205, "nombre": "Concepcion"}, {"id": 80206, "nombre": "Hualqui"}, {"id": 80207, "nombre": "Coronel"}, {"id": 80208, "nombre": "Lota"}, {"id": 80209, "nombre": "Santa Juana"}, {"id": 80210, "nombre": "Chiguayante"}, {"id": 80211, "nombre": "San Pedro de la Paz"}, {"id": 80212, "nombre": "Hualpen"}, {"id": 80301, "nombre": "Cabrero"}, {"id": 80302, "nombre": "Yumbel"}, {"id": 80303, "nombre": "Tucapel"}, {"id": 80304, "nombre": "Antuco"}, {"id": 80305, "nombre": "San Rosendo"}, {"id": 80306, "nombre": "Laja"}, {"id": 80307, "nombre": "Quilleco"}, {"id": 80308, "nombre": "Los Angeles"}, {"id": 80309, "nombre": "Nacimiento"}, {"id": 80310, "nombre": "Negrete"}, {"id": 80311, "nombre": "Santa Barbara"}, {"id": 80312, "nombre": "Quilaco"}, {"id": 80313, "nombre": "Mulchen"}, {"id": 80314, "nombre": "Alto Bio Bio"}, {"id": 80401, "nombre": "Arauco"}, {"id": 80402, "nombre": "Curanilahue"}, {"id": 80403, "nombre": "Los Alamos"}, {"id": 80404, "nombre": "Lebu"}, {"id": 80405, "nombre": "Cañete"}, {"id": 80406, "nombre": "Contulmo"}, {"id": 80407, "nombre": "Tirua"}]
+        },
+        {
+        "id": 9, "nombre": "Región de La Araucanía",
+        "comunas": [{"id": 90101, "nombre": "Renaico"}, {"id": 90102, "nombre": "Angol"}, {"id": 90103, "nombre": "Collipulli"}, {"id": 90104, "nombre": "Los Sauces"}, {"id": 90105, "nombre": "Puren"}, {"id": 90106, "nombre": "Ercilla"}, {"id": 90107, "nombre": "Lumaco"}, {"id": 90108, "nombre": "Victoria"}, {"id": 90109, "nombre": "Traiguen"}, {"id": 90110, "nombre": "Curacautin"}, {"id": 90111, "nombre": "Lonquimay"}, {"id": 90201, "nombre": "Perquenco"}, {"id": 90202, "nombre": "Galvarino"}, {"id": 90203, "nombre": "Lautaro"}, {"id": 90204, "nombre": "Vilcun"}, {"id": 90205, "nombre": "Temuco"}, {"id": 90206, "nombre": "Carahue"}, {"id": 90207, "nombre": "Melipeuco"}, {"id": 90208, "nombre": "Nueva Imperial"}, {"id": 90209, "nombre": "Puerto Saavedra"}, {"id": 90210, "nombre": "Cunco"}, {"id": 90211, "nombre": "Freire"}, {"id": 90212, "nombre": "Pitrufquen"}, {"id": 90213, "nombre": "Teodoro Schmidt"}, {"id": 90214, "nombre": "Gorbea"}, {"id": 90215, "nombre": "Pucon"}, {"id": 90216, "nombre": "Villarrica"}, {"id": 90217, "nombre": "Tolten"}, {"id": 90218, "nombre": "Curarrehue"}, {"id": 90219, "nombre": "Loncoche"}, {"id": 90220, "nombre": "Padre Las Casas"}, {"id": 90221, "nombre": "Cholchol"}]
+        },
+        {
+        "id": 10, "nombre": "Región de Los Lagos",
+        "comunas": [{"id": 100201, "nombre": "San Pablo"}, {"id": 100202, "nombre": "San Juan"}, {"id": 100203, "nombre": "Osorno"}, {"id": 100204, "nombre": "Puyehue"}, {"id": 100205, "nombre": "Rio Negro"}, {"id": 100206, "nombre": "Purranque"}, {"id": 100207, "nombre": "Puerto Octay"}, {"id": 100301, "nombre": "Frutillar"}, {"id": 100302, "nombre": "Fresia"}, {"id": 100303, "nombre": "Llanquihue"}, {"id": 100304, "nombre": "Puerto Varas"}, {"id": 100305, "nombre": "Los Muermos"}, {"id": 100306, "nombre": "Puerto Montt"}, {"id": 100307, "nombre": "Maullin"}, {"id": 100308, "nombre": "Calbuco"}, {"id": 100309, "nombre": "Cochamo"}, {"id": 100401, "nombre": "Ancud"}, {"id": 100402, "nombre": "Quemchi"}, {"id": 100403, "nombre": "Dalcahue"}, {"id": 100404, "nombre": "Curaco de Velez"}, {"id": 100405, "nombre": "Castro"}, {"id": 100406, "nombre": "Chonchi"}, {"id": 100407, "nombre": "Queilen"}, {"id": 100408, "nombre": "Quellon"}, {"id": 100409, "nombre": "Quinchao"}, {"id": 100410, "nombre": "Puqueldon"}, {"id": 100501, "nombre": "Chaiten"}, {"id": 100502, "nombre": "Futaleufu"}, {"id": 100503, "nombre": "Palena"}, {"id": 100504, "nombre": "Hualaihue"}]
+        },
+        {
+        "id": 11, "nombre": "Región Aisén del General Carlos Ibáñez del Campo",
+        "comunas": [{"id": 110101, "nombre": "Guaitecas"}, {"id": 110102, "nombre": "Cisnes"}, {"id": 110103, "nombre": "Aysen"}, {"id": 110201, "nombre": "Coyhaique"}, {"id": 110202, "nombre": "Lago Verde"}, {"id": 110301, "nombre": "Rio Ibañez"}, {"id": 110302, "nombre": "Chile Chico"}, {"id": 110401, "nombre": "Cochrane"}, {"id": 110402, "nombre": "Tortel"}, {"id": 110403, "nombre": "O'Higins"}]
+        },
+        {
+        "id": 12, "nombre": "Región de Magallanes y la Antártica Chilena",
+        "comunas": [{"id": 120101, "nombre": "Torres del Paine"}, {"id": 120102, "nombre": "Puerto Natales"}, {"id": 120201, "nombre": "Laguna Blanca"}, {"id": 120202, "nombre": "San Gregorio"}, {"id": 120203, "nombre": "Rio Verde"}, {"id": 120204, "nombre": "Punta Arenas"}, {"id": 120301, "nombre": "Porvenir"}, {"id": 120302, "nombre": "Primavera"}, {"id": 120303, "nombre": "Timaukel"}, {"id": 120401, "nombre": "Antartica"}]
+        },
+        {
+        "id": 13, "nombre": "Región Metropolitana de Santiago ",
+        "comunas": [{"id": 130101, "nombre": "Tiltil"}, {"id": 130102, "nombre": "Colina"}, {"id": 130103, "nombre": "Lampa"}, {"id": 130201, "nombre": "Conchali"}, {"id": 130202, "nombre": "Quilicura"}, {"id": 130203, "nombre": "Renca"}, {"id": 130204, "nombre": "Las Condes"}, {"id": 130205, "nombre": "Pudahuel"}, {"id": 130206, "nombre": "Quinta Normal"}, {"id": 130207, "nombre": "Providencia"}, {"id": 130208, "nombre": "Santiago"}, {"id": 130209, "nombre": "La Reina"}, {"id": 130210, "nombre": "Ñuñoa"}, {"id": 130211, "nombre": "San Miguel"}, {"id": 130212, "nombre": "Maipu"}, {"id": 130213, "nombre": "La Cisterna"}, {"id": 130214, "nombre": "La Florida"}, {"id": 130215, "nombre": "La Granja"}, {"id": 130216, "nombre": "Independencia"}, {"id": 130217, "nombre": "Huechuraba"}, {"id": 130218, "nombre": "Recoleta"}, {"id": 130219, "nombre": "Vitacura"}, {"id": 130220, "nombre": "Lo Barrenechea"}, {"id": 130221, "nombre": "Macul"}, {"id": 130222, "nombre": "Peñalolen"}, {"id": 130223, "nombre": "San Joaquin"}, {"id": 130224, "nombre": "La Pintana"}, {"id": 130225, "nombre": "San Ramon"}, {"id": 130226, "nombre": "El Bosque"}, {"id": 130227, "nombre": "Pedro Aguirre Cerda"}, {"id": 130228, "nombre": "Lo Espejo"}, {"id": 130229, "nombre": "Estacion Central"}, {"id": 130230, "nombre": "Cerrillos"}, {"id": 130231, "nombre": "Lo Prado"}, {"id": 130232, "nombre": "Cerro Navia"}, {"id": 130301, "nombre": "San Jose de Maipo"}, {"id": 130302, "nombre": "Puente Alto"}, {"id": 130303, "nombre": "Pirque"}, {"id": 130401, "nombre": "San Bernardo"}, {"id": 130402, "nombre": "Calera de Tango"}, {"id": 130403, "nombre": "Buin"}, {"id": 130404, "nombre": "Paine"}, {"id": 130501, "nombre": "Peñaflor"}, {"id": 130502, "nombre": "Talagante"}, {"id": 130503, "nombre": "El Monte"}, {"id": 130504, "nombre": "Isla de Maipo"}, {"id": 130601, "nombre": "Curacavi"}, {"id": 130602, "nombre": "Maria Pinto"}, {"id": 130603, "nombre": "Melipilla"}, {"id": 130604, "nombre": "San Pedro"}, {"id": 130605, "nombre": "Alhue"}, {"id": 130606, "nombre": "Padre Hurtado"}]
+        },
+        {
+        "id": 14, "nombre": "Región de Los Ríos",
+        "comunas": [{"id": 100101, "nombre": "Lanco"}, {"id": 100102, "nombre": "Mariquina"}, {"id": 100103, "nombre": "Panguipulli"}, {"id": 100104, "nombre": "Mafil"}, {"id": 100105, "nombre": "Valdivia"}, {"id": 100106, "nombre": "Los Lagos"}, {"id": 100107, "nombre": "Corral"}, {"id": 100108, "nombre": "Paillaco"}, {"id": 100109, "nombre": "Futrono"}, {"id": 100110, "nombre": "Lago Ranco"}, {"id": 100111, "nombre": "La Union"}, {"id": 100112, "nombre": "Rio Bueno"}]
+        },
+        {
+        "id": 15, "nombre": "Región Arica y Parinacota",
+        "comunas": [{"id": 10101, "nombre": "Gral. Lagos"}, {"id": 10102, "nombre": "Putre"}, {"id": 10201, "nombre": "Arica"}, {"id": 10202, "nombre": "Camarones"}]
+        },
+        {
+        "id": 16, "nombre": "Región del Ñuble",
+        "comunas": [{"id": 80101, "nombre": "Cobquecura"}, {"id": 80102, "nombre": "Ñiquen"}, {"id": 80103, "nombre": "San Fabian"}, {"id": 80104, "nombre": "San Carlos"}, {"id": 80105, "nombre": "Quirihue"}, {"id": 80106, "nombre": "Ninhue"}, {"id": 80107, "nombre": "Trehuaco"}, {"id": 80108, "nombre": "San Nicolas"}, {"id": 80109, "nombre": "Coihueco"}, {"id": 80110, "nombre": "Chillan"}, {"id": 80111, "nombre": "Portezuelo"}, {"id": 80112, "nombre": "Pinto"}, {"id": 80113, "nombre": "Coelemu"}, {"id": 80114, "nombre": "Bulnes"}, {"id": 80115, "nombre": "San Ignacio"}, {"id": 80116, "nombre": "Ranquil"}, {"id": 80117, "nombre": "Quillon"}, {"id": 80118, "nombre": "El Carmen"}, {"id": 80119, "nombre": "Pemuco"}, {"id": 80120, "nombre": "Yungay"}, {"id": 80121, "nombre": "Chillan Viejo"}]
+        }
+    ]
+}

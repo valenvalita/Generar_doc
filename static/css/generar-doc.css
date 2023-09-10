@@ -1,0 +1,89 @@
+
+
+:root {
+    --black-color: #000022;
+    --background-color: #E8E6F0;
+    --purple-color: #b833ff;
+    --purple-color-darker: #43135d;
+    --color-borde: #dbdbdb;
+  }
+  
+body {
+    margin: 0;
+    background-color: var(--background-color);
+}
+ 
+  .container {
+    border: 1px solid var(--color-borde);
+    height: 50%;
+    max-width: 350px;
+    padding: 2rem;
+    padding-top: .5rem;
+    background-color: #ffffff;
+    margin: 2% auto
+  }
+  
+
+  .formulario {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+    
+  .grupo-input {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .botones {
+    display: flex;
+    justify-content: center;
+  }
+  
+  label {
+    padding-bottom: 0.5rem;
+    padding-top: 1.5rem;
+    cursor: pointer;
+  }
+  
+  #generar-doc-button {
+    font-weight: bold;
+    background-color: var(--purple-color);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 20px;
+    padding: 2% 5%;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  #generar-doc-button:hover {
+    background-color: var(--purple-color-darker);
+  }
+  
+  label > input {
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  label > select {
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  input {
+    border: 1px solid var(--color-borde);
+    background-color: #fafafa;
+    height: 20px;
+    padding: 9px;
+  }
+
+  select {
+    border: 1px solid var(--color-borde);
+    background-color: #fafafa;
+    height: 40px;
+    padding: 9px;
+  }
+
+  

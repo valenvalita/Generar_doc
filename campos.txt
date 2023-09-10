@@ -1,0 +1,92 @@
+ Nombre -> Largo min 3, largo max 80
+ 
+ # Info Contexto
+    ciudad
+    dia_actual
+    mes_actual
+    anho_actual
+    dias_mes_actual
+    dias_faltantes
+ 
+# Info Arrendadorx
+    nombre_arrendador
+    profesion_arrendador
+    cedula_arrendador
+    calle_arrendador
+    n_calle_arrendador
+    depto_arrendador
+    comuna_arrendador
+    region_arrendador
+
+# Info Arrendatarix
+    nombre_arrendatario
+    nacionalidad_arrendatario
+    profesion_arrendatario
+    cedula_arrendatario
+    pasaporte_arrendatario
+    residencia_arrendatario
+    calle_arrendatario
+    n_calle_arrendatario
+    depto_arrendatario
+    comuna_arrendatario
+    region_arrendatario
+
+# Info Inmueble en arriendo
+    calle_arriendo
+    n_calle_arriendo
+    depto_arriendo
+    comuna_arriendo
+    region_arriendo
+    fojas_arriendo
+    n_arriendo
+    bienes_raices_arriendo
+    anho_arriendo
+    n_dormitorios
+    n_banhos
+    
+# Info Habitación en arriendo
+    n_habitacion
+    nombre_habitacion
+    ubicacion_habitacion
+
+# Info Pago arriendo
+    renta
+    renta_pesos
+    nombre_banco
+    n_cuenta
+    receptor_renta
+    correo_renta
+    correo_copia 
+
+# Info Multa
+    multa
+    multa_pesos        
+
+# Info Garantía
+    garantia_UF
+    garantia_pesos        
+
+# Info Duración contrato
+    duracion_dias_contrato
+    fecha_inicio_contrato
+    dia_inicio_contrato  
+    mes_inicio_contrato 
+    anho_inicio_contrato 
+    fecha_termino_contrato
+    dia_termino_contrato 
+    mes_termino_contrato 
+    anho_termino_contrato 
+    plazo_dias_abandono_contrato 
+
+# Info Normas de convivenvia
+    tenencia_mascotas 
+    tipo_mascotas 
+    fumar    
+    hora_descanso_inicio
+    hora_descanso_termino
+    dias_descanso
+    excepcion_descanso
+
+# Info domiclio de jurisdiccion
+    ciudad_jurisdiccion
+    region_jurisdiccion
